@@ -6,7 +6,7 @@ BeetleBug is a beginner-friendly Capture The Flag (CTF) Android application desi
 
 **Difficulty:** Beginner to Intermediate  
 **Platform:** Android Mobile Security  
-**Repository:** [hafiz-ng/Beetlebug](https://github.com/hafiz-ng/Beetlebug)  
+**Repository:** [hafiz-ng/Beetlebug](https://medium.com/@elipphab/beetlebug-ctf-walk-through-c430cf8bed1e)  
 **Target Audience:** Android penetration testers, developers, and mobile security enthusiasts
 
 ## 📖 Full Write-up
